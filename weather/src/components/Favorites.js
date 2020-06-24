@@ -1,6 +1,6 @@
 import React from 'react';
 import { Grid, Paper, Typography } from '@material-ui/core'
-import weatherImg from '../imges/weatherImage.jpg'
+import weatherImg from '../images/weatherImage.jpg'
 import WeatherList from './WeatherList';
 import FavoriteItem from './FavoriteItem';
 import { useSelector, useDispatch } from 'react-redux'

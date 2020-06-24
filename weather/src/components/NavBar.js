@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom'
 import { Grid, Typography } from '@material-ui/core'
-import Herolo  from '../imges/herolo.jpg'
+import Herolo  from '../images/heroloLogo.jpg'
 
 
 
