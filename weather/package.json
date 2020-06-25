@@ -2,7 +2,7 @@
   "name": "weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://baracohen.github.io/Barak-Cohen-23-06-2020/",
+  "homepage": "https://baracohen.github.io/Barak-Cohen-23-06-2020/weather",
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "@material-ui/icons": "^4.9.1",
