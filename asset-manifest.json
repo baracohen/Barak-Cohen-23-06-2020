@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Barak-Cohen-23-06-2020/weather/static/css/main.df9d7ffa.chunk.css",
+    "main.js": "/Barak-Cohen-23-06-2020/weather/static/js/main.cb8c2f68.chunk.js",
+    "main.js.map": "/Barak-Cohen-23-06-2020/weather/static/js/main.cb8c2f68.chunk.js.map",
+    "runtime-main.js": "/Barak-Cohen-23-06-2020/weather/static/js/runtime-main.85fbed69.js",
+    "runtime-main.js.map": "/Barak-Cohen-23-06-2020/weather/static/js/runtime-main.85fbed69.js.map",
+    "static/js/2.fdc4ef1f.chunk.js": "/Barak-Cohen-23-06-2020/weather/static/js/2.fdc4ef1f.chunk.js",
+    "static/js/2.fdc4ef1f.chunk.js.map": "/Barak-Cohen-23-06-2020/weather/static/js/2.fdc4ef1f.chunk.js.map",
+    "index.html": "/Barak-Cohen-23-06-2020/weather/index.html",
+    "precache-manifest.c0eafdd0ee76de90d1a325b0b272e446.js": "/Barak-Cohen-23-06-2020/weather/precache-manifest.c0eafdd0ee76de90d1a325b0b272e446.js",
+    "service-worker.js": "/Barak-Cohen-23-06-2020/weather/service-worker.js",
+    "static/css/main.df9d7ffa.chunk.css.map": "/Barak-Cohen-23-06-2020/weather/static/css/main.df9d7ffa.chunk.css.map",
+    "static/js/2.fdc4ef1f.chunk.js.LICENSE.txt": "/Barak-Cohen-23-06-2020/weather/static/js/2.fdc4ef1f.chunk.js.LICENSE.txt",
+    "static/media/heroloLogo.jpg": "/Barak-Cohen-23-06-2020/weather/static/media/heroloLogo.71e6cc86.jpg",
+    "static/media/weatherImage.jpg": "/Barak-Cohen-23-06-2020/weather/static/media/weatherImage.7322d5b9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85fbed69.js",
+    "static/js/2.fdc4ef1f.chunk.js",
+    "static/css/main.df9d7ffa.chunk.css",
+    "static/js/main.cb8c2f68.chunk.js"
+  ]
+}
