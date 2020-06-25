@@ -1,4 +1,4 @@
-import ff from './/'
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -14,7 +14,7 @@ import ff from './/'
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
     -->
-    <link rel="manifest" href="./%PUBLIC_URL%/manifest.json" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>React App</title>
   </head>
   <body>
